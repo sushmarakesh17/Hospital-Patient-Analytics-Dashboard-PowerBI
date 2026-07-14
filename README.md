@@ -2,7 +2,7 @@
 
 ## Dashboard Preview
 
-![Hospital Patient Analytics Dashboard](Dashboard%20Screenshot.png)
+![Hospital Patient Analytics Dashboard](./Dashboard%20Screenshot.png)
 
 ## Project Overview
 
