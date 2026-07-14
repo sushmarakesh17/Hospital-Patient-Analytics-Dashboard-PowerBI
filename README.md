@@ -1,8 +1,6 @@
 # Hospital Patient Analytics Dashboard | Power BI
 
-## Dashboard Preview
-
-![Hospital Patient Analytics Dashboard](./Dashboard%20Screenshot.png)
+![Hospital Patient Analytics Dashboard](dashboard-preview.png)
 
 ## Project Overview
 
